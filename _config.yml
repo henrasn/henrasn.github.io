@@ -1,2 +1,3 @@
-theme:tactile
-include:[".well-known/assetlinks.json"]
+theme: jekyll-theme-cayman
+
+include: [".well-known"]
