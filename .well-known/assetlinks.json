@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.bobobox.bobobox.dev",
+    "sha256_cert_fingerprints":
+    ["E0:27:5E:69:2B:D2:9C:BC:C7:AA:23:CF:E4:99:35:04:A3:22:76:04:AE:FA:DF:09:51:63:E7:1B:38:B3:58:9A"]
+  }
+}]
