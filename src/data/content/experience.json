@@ -1,0 +1,79 @@
+[
+  {
+    "id": "1",
+    "role": "Lead Android Engineer",
+    "company": "TechNova Solutions",
+    "period": "2021 — Present",
+    "description": "Spearheaded the migration to Jetpack Compose, architected multi-module Clean Architecture, and optimized CI/CD pipelines to scale a flagship app.",
+    "logo": "https://lh3.googleusercontent.com/aida-public/AB6AXuB-V9DbQxiX6xzc61CC1QT71JJ7x_udTI8BWhIqgtp_A0UcKoG99cyCG9kb0N4dx24UZfLuRAAISrT_eSU_j-cDj3s-JVZkw0F-5KW-lsmB_BU1WjJA0uwpENhVJ4Ik9_9y2N-5bPO6zx_2Ys3oTu7INQtGCMcnXX__wj410dWqAI8OEdVE-VsLP9eqa247nYIwDGLTELZqxSe_0YdizaTDqK70j-vxAZbfLGdxKgC2coTe1_CcDOFZyQ",
+    "accent": "primary",
+    "active": true,
+    "bullets": [
+      "Spearheaded the complete migration of the flagship app from XML/Views to Jetpack Compose, reducing UI rendering times by 35% and improving developer velocity.",
+      "Architected a multi-module Clean Architecture pattern using MVVM and Hilt, establishing a solid foundation for testability and parallel development.",
+      "Optimized CI/CD pipelines via GitHub Actions, reducing build times by 40% and implementing automated robust UI testing protocols.",
+      "Mentored a team of 4 mid-level engineers, establishing coding standards and conducting rigorous architectural reviews."
+    ],
+    "location": "Jakarta, Indonesia",
+    "employmentType": "Full-time",
+    "techStack": [
+      "Jetpack Compose",
+      "Kotlin",
+      "Hilt",
+      "MVVM",
+      "Clean Architecture",
+      "GitHub Actions",
+      "Room",
+      "Coroutines"
+    ],
+    "current": true
+  },
+  {
+    "id": "2",
+    "role": "Senior Android Developer",
+    "company": "FinApp Global",
+    "period": "2018 — 2021",
+    "description": "Led financial data integration with Kotlin Coroutines and Flow, secured sensitive user data, and refactored a legacy Java codebase to Kotlin.",
+    "logo": "https://lh3.googleusercontent.com/aida-public/AB6AXuDuF4mF_yqjnvrRCIHxboSV-iRpaHHNOj16vb9kbI8dAG4Ei4D0jojskXpcSgPAcmus4vD5NxHMISCObzsvqtWal402yCCfwHtFhJrrUVn_SC1vQ37p8oatW3IyL-BGicFHFYqgpLqLmnlbgsh6dY68C6BBJvzcR27TI4Z-jNlLTxLIkMWQidB1PWGuwXWcAW1B56dUqccJxxZopsnzgzzOoUUEsbctf1somHhYJZjY_O6EvOSTyyfpKg",
+    "accent": "tertiary",
+    "bullets": [
+      "Led the integration of complex financial data streams using Kotlin Coroutines and Flow, ensuring real-time UI updates without main thread blocking.",
+      "Implemented secure biometric authentication and end-to-end encryption for sensitive user financial data.",
+      "Refactored legacy Java codebase to Kotlin, increasing crash-free sessions to 99.9% over a 6-month period."
+    ],
+    "location": "Jakarta, Indonesia",
+    "employmentType": "Full-time",
+    "techStack": [
+      "Kotlin",
+      "Coroutines",
+      "Flow",
+      "Biometric Auth",
+      "Encryption",
+      "MVVM"
+    ],
+    "current": false
+  },
+  {
+    "id": "3",
+    "role": "Android Developer",
+    "company": "BlueSky Logistics",
+    "period": "2015 — 2018",
+    "description": "Developed internal logistics tracking apps used by thousands of field agents and integrated real-time mapping with offline sync.",
+    "logo": "https://lh3.googleusercontent.com/aida-public/AB6AXuAQrX5vKQo8jXCZhOVJ3jkeU2TcxCoOlE9lU9zECi7ZzFB3ZodeBIGhdEn9woNIN6Y-WBpC2S0j91TJGArBlbDdRQGrIyd5kvTMQ-LBlIInFu8gcg8k-0qwlUWAa31OG68ZOgCIb3dzagQPu3r5YcSMr8bI9ZEphFTBj23X8BfeCqJb7ipJdrja3SPWxEuQupI-0vSktEUZ-sUnvXOBichzYJdYB2kvR75bucniMWeuXBwgNqBBCwIJ0g",
+    "accent": "outline",
+    "bullets": [
+      "Developed and maintained a suite of internal logistics tracking applications used by over 5,000 field agents daily.",
+      "Integrated Google Maps API for real-time fleet routing and offline sync capabilities using Room Database."
+    ],
+    "location": "Surabaya, Indonesia",
+    "employmentType": "Full-time",
+    "techStack": [
+      "Kotlin",
+      "Java",
+      "Google Maps API",
+      "Room Database",
+      "Offline Sync"
+    ],
+    "current": false
+  }
+]
